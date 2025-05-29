@@ -1,0 +1,1 @@
+print("My son better not be lazy!")
